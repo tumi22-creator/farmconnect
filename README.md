@@ -74,3 +74,26 @@ This moves starter code to app-example and creates a fresh app directory.
 -Firebase documentation
 
 -Cloudinary documentation
+
+# FarmConnect
+
+## Screenshots
+
+### Login
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Marketplace
+![Marketplace](screenshots/marketplace.png)
+
+### Planner
+![Planner](screenshots/planner.png)
+
+### Register
+![Register](screenshots/register.png)
+
+### Sell
+![Sell](screenshots/sell.png)
+
